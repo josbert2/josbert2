@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/josbert2"
+  width="600"
+  height="300"
+/>
+</a>
+
 # 💫 About Me:
 Hi, I'm Josbert Hernandez, a Full Stack Developer currently working at EntreKids. My passion for programming has driven me to constantly improve my skills and broaden my knowledge in various technologies. I'm a dedicated professional who takes pride in delivering high-quality code and creating seamless user experiences.<br><br>🔭 Currently working at EntreKids<br>🌱 Continuously learning and growing as a developer<br>💻 Proficient in various programming languages and frameworks<br>🎯 Strong problem-solving and critical-thinking abilities<br>🌐 Bilingual: Fluent in English and Spanish<br><br>Feel free to reach out to me if you'd like to connect or collaborate on projects!<br><br>📫 How to reach me:<br><br>Email: joheandroid@gmail.com<br>LinkedIn: https://www.linkedin.com/in/josbert-hernandez-317b77113/<br>💼 Technical Skills:<br><br>Front-end: HTML, CSS, JavaScript, React, Angular, Tailwindcss, NextJs<br>Back-end: Node.js, Express, PHP, Laravel, Django<br>Databases: MySQL, PostgreSQL, MongoDB<br>Version Control: Git, GitHub<br>Tools: npm, Webpack, Babel, Docker, AWS<br>🔧 Personal Projects:<br><br>Entrekids - entrekids.cl<br>benft - benft.solutions<br>Josbert CV - josbert.vercel.app<br>Don't forget to ⭐ my repositories if you find my projects interesting or helpful!
 
